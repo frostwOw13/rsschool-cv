@@ -32,3 +32,15 @@ body {
     background-color: black;
   }
   
+  .aboutMe {
+    background-color: #c7cfb7;
+    margin-top: 0;
+    margin: auto;
+    width: 50%;
+    font-family: "Montserrat", sans-serif;
+    padding: 1rem;
+  }
+  
+  .aboutMe p {
+    margin-top: 0;
+  }  
