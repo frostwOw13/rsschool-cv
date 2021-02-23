@@ -42,3 +42,10 @@ function fizzbuzz(n)
 ```
 ## Work experience
 I finished the [complete web develompent bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) on Udemy
+
+## Education
+Tula State University (2015 - 2019)
+
+## Languages
+- Russian (native)
+- English (A2)
