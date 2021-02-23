@@ -66,4 +66,25 @@ body {
   
   .languages {
   }
+
+footer {
+    width: 50%;
+    margin: auto;
+    padding: 1rem;
+    background-color: #c7cfb7;
+    border-radius: 0 0 15px 15px;
+    box-shadow: 0 5px 10px black;
+  }
+  
+  footer .by {
+    font-size: 0.8rem;
+    font-style: italic;
+    margin-top: -2px;
+  }
+  
+  footer .footerDescription {
+    text-align: center;
+    margin-bottom: 0;
+    font-size: 0.9rem;
+  }
   
