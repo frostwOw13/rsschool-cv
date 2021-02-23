@@ -18,3 +18,27 @@ I like to learn something new and do useful and interesting things
 - CSS
 - JavaScript
 - Git
+- 
+## Code examples
+__FizzBuzz__
+```
+function fizzbuzz(n)
+{
+  arr = [];
+  for (let i = 1; i <= n; i++) {
+    if (i % 3 === 0 && i % 5 === 0) {
+        arr.push('FizzBuzz');
+    } else if (i % 5 === 0) {
+        arr.push('Buzz')
+    } else if (i % 3 === 0) {
+        arr.push('Fizz');
+    } else {
+        arr.push(i);
+    }
+  }
+  return arr;
+}
+
+```
+## Work experience
+I finished the [complete web develompent bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) on Udemy
