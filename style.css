@@ -80,12 +80,6 @@ footer {
     box-shadow: 0 5px 10px black;
   }
   
-  footer .by {
-    font-size: 0.8rem;
-    font-style: italic;
-    margin-top: -2px;
-  }
-  
   footer .footerDescription {
     text-align: center;
     font-size: 0.9rem;
