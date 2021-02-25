@@ -28,6 +28,20 @@ body {
     padding: 5px;
     padding-bottom: 30px;
   }
+
+  header ul {
+    padding-left: 0;
+  }
+
+  header li {
+    list-style-type: none;
+    margin-bottom: 3px;
+  }
+
+  header i {
+    margin-right: 15px;
+  }
+
   hr {
     margin-top: -15px;
     width: 80px;
